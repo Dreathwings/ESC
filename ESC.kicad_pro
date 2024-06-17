@@ -475,10 +475,6 @@
     [
       "e93fdf03-1109-4f0f-94e7-b46be4fb1c3b",
       "MOTOR"
-    ],
-    [
-      "86cd6762-7119-4d00-b1d9-f5d233c30498",
-      "TRI-BEMF_ZCD"
     ]
   ],
   "text_variables": {}
