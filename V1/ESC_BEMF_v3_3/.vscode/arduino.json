@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM6",
+    "programmer": "avrispmkii",
+    "sketch": "ESC_BEMF_v3_3.ino"
+}
